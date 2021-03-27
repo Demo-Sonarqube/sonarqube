@@ -19,7 +19,6 @@ public class AddressBookResource {
 	@GetMapping("/{id}")
 	public Contact getContact(@PathVariable String id)
 	{
-		System.out.println("Edited By vishal");
 		return contacts.get(id);
 	}
 	@GetMapping("/")
