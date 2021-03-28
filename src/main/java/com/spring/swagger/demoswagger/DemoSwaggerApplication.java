@@ -13,6 +13,8 @@ public class DemoSwaggerApplication {
 	
 	public static void main(String[] args) {
 		SpringApplication.run(DemoSwaggerApplication.class, args);
+		System.out.println("sambhav");
+
 	}
 
 	
