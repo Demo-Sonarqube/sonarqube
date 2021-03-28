@@ -14,7 +14,7 @@ public class DemoSwaggerApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DemoSwaggerApplication.class, args);
 		
-	System.out.print("sambhav");
+	System.out.println("khandelwal");
 
 	}
 
