@@ -1,6 +1,6 @@
 package com.spring.swagger.demoswagger;
-import java.util.List;
 import org.springframework.stereotype.Component;
+import java.util.HashMap;
 
 //default import
 
