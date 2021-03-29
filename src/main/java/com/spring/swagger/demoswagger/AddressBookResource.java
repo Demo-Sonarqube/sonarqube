@@ -1,5 +1,4 @@
 package com.spring.swagger.demoswagger;
-import java.util.Collection;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
