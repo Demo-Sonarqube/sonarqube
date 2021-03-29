@@ -1,7 +1,6 @@
 package com.spring.swagger.demoswagger;
 import org.springframework.stereotype.Component;
 
-import java.util.ArrayList;
 
 @Component
 public class Contact {
