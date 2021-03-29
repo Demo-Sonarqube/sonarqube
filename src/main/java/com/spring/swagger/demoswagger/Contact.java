@@ -14,7 +14,7 @@ public class Contact {
 		return id;
 	}
 	public void setId(String id) {
-		System.out.println("TEST");
+		
 		this.id = id;
 	}
 	public String getName() {
@@ -27,6 +27,7 @@ public class Contact {
 		return phone;
 	}
 	public void setPhone(String phone) {
+		System.out.println("TEST1");
 		this.phone = phone;
 	}
 }
