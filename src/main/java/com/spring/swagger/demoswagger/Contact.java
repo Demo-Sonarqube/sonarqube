@@ -3,6 +3,7 @@ import org.springframework.stereotype.Component;
 
 
 
+import java.util.Vector;
 @Component
 public class Contact {
 	
