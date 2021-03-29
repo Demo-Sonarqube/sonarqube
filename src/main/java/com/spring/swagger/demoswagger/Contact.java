@@ -21,10 +21,11 @@ public class Contact {
 		return name;
 	}
 	public void setName(String name) {
+		System.out.println("TEST3");
 		this.name = name;
 	}
 	public String getPhone() {
-		System.out.println("TEST2");
+		
 		return phone;
 	}
 	public void setPhone(String phone) {
