@@ -3,10 +3,9 @@ package com.spring.swagger.demoswagger;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
-import org.json;
 
 import org.springframework.web.bind.annotation.GetMapping;
-
+import java.util.Collection;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
