@@ -2,7 +2,7 @@ package com.spring.swagger.demoswagger;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import java.util.Collection;
+
 import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 @SpringBootApplication
