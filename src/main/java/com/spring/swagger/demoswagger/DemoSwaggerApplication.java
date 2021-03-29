@@ -1,6 +1,7 @@
 package com.spring.swagger.demoswagger;
 
 import org.springframework.boot.SpringApplication;
+import java.util.HashMap;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import springfox.documentation.swagger2.annotations.EnableSwagger2;
