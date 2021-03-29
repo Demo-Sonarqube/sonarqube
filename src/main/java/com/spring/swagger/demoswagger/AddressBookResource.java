@@ -24,7 +24,6 @@ public class AddressBookResource {
 	}
 	@GetMapping("/")
 	public List<Contact> getAllContact(){
-		System.out.println("TEST4");
 		return new ArrayList<>(contacts.values());
 	}
 	@PostMapping("/")
