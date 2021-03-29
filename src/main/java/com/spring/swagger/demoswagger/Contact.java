@@ -24,10 +24,11 @@ public class Contact {
 		this.name = name;
 	}
 	public String getPhone() {
+		System.out.println("TEST2");
 		return phone;
 	}
 	public void setPhone(String phone) {
-		System.out.println("TEST1");
+		
 		this.phone = phone;
 	}
 }
