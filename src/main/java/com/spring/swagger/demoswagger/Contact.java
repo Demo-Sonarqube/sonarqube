@@ -21,7 +21,6 @@ public class Contact {
 	public String getName() {
 		
 		return name;
-		System.out.print("TEST10");
 	}
 	public void setName(String name) {
 		
