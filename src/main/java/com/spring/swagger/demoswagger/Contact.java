@@ -14,6 +14,7 @@ public class Contact {
 		return id;
 	}
 	public void setId(String id) {
+		System.out.println("TEST");
 		this.id = id;
 	}
 	public String getName() {
