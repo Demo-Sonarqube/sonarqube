@@ -9,7 +9,7 @@ public class Contact {
 	
 	private String id;
 	private String name;
-	System.out.println("TEST4");
+	
 	private String phone;
 	public String getId() {
 		return id;
@@ -21,6 +21,7 @@ public class Contact {
 	public String getName() {
 		
 		return name;
+		System.out.print("TEST10");
 	}
 	public void setName(String name) {
 		
