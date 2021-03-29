@@ -2,7 +2,7 @@ package com.spring.swagger.demoswagger;
 import org.springframework.stereotype.Component;
 
 
-import java.util.Vector
+import java.util.Vector;
 @Component
 public class Contact {
 	
