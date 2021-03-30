@@ -1,6 +1,7 @@
 package com.spring.swagger.demoswagger;
 
 import org.springframework.boot.SpringApplication;
+import java.util.Map;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import springfox.documentation.swagger2.annotations.EnableSwagger2;
@@ -17,6 +18,14 @@ public class DemoSwaggerApplication {
 	
 
 	}
+public void sambhav()
+{
+	
+}
+public void A()
+{
+System.out.println("HELLO");
+}
 
 	
 
