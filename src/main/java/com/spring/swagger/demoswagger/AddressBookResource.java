@@ -30,11 +30,5 @@ public class AddressBookResource {
 		contacts.put(contact.getId(), contact);
 		return contact;
 	}
-	public void sambhav()
-	{
-	}
-	public void Abc()
-	{
-		System.out.println("sambhav");
-	}
+	
 }
