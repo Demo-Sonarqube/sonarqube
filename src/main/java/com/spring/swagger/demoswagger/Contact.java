@@ -1,5 +1,6 @@
 package com.spring.swagger.demoswagger;
 import org.springframework.stereotype.Component;
+import org.springframework.web.bind.annotation.RestController;
 
 @Component
 public class Contact {
@@ -14,6 +15,10 @@ public class Contact {
 	public void setId(String id) {
 		
 		this.id = id;
+	}
+	public void abcd()
+	{
+	System.out.println("Test");
 	}
 	public String getName() {
 		
