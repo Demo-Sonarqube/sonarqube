@@ -2,13 +2,6 @@ package com.spring.swagger.demoswagger;
 import org.springframework.stereotype.Component;
 
 
-
-
-
-import org.springframework.boot.autoconfigure.SpringBootApplication;
-import springfox.documentation.swagger2.annotations.EnableSwagger2;
-
-
 @Component
 public class Contact {
 	
