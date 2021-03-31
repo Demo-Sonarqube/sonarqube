@@ -26,7 +26,7 @@ public class AddressBookResource {
 	@PostMapping("/")
 	public Contact addContact(@RequestBody Contact contact)
 	{
-		System.out.println("sambhav");
+		
 		contacts.put(contact.getId(), contact);
 		return contact;
 	}
