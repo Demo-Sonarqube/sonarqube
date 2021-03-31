@@ -1,6 +1,6 @@
 public class sonu {
     public void hello() {
-        system.out.println("hello sonu");
+        System.out.println("hello sonu");
     }
 public void abc() {
     
