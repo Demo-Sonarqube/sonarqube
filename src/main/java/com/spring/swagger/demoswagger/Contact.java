@@ -31,11 +31,5 @@ public class Contact {
 		
 		this.phone = phone;
 	}
-	public void sam()
-	{
-	}
-	public void def()
-	{
-		System.out.println("sambhav");
-	}
+	
 }
