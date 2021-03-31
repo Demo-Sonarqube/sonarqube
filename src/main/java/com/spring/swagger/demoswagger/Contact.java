@@ -5,10 +5,6 @@ import org.springframework.stereotype.Component;
 @Component
 public class Contact {
 	
-	public void abc()
-	{
-	System.out.println("sa");
-	}
 	
 	private String id;
 	private String name;
