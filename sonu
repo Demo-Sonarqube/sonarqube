@@ -1,5 +1,0 @@
-public class sonu {
-
-    public SpringTemplateEngine springTemplateEngine() {
-       system.out.println("hello sonu");
-    }
