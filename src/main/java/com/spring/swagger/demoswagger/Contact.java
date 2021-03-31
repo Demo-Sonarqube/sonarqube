@@ -1,4 +1,6 @@
 package com.spring.swagger.demoswagger;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RestController;
 import org.springframework.stereotype.Component;
 
 @Component
