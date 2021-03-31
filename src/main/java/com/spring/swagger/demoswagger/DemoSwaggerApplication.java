@@ -8,6 +8,13 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 @SpringBootApplication
 @EnableSwagger2
+public void fun()
+{
+}
+public void sk()
+{
+	System.out.println("FUN");
+}
 public class DemoSwaggerApplication {
 
 	
