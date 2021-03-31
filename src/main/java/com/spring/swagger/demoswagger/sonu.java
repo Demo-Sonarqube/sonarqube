@@ -1,4 +1,4 @@
 public class sonu {
-    public hello() {
+    public void hello() {
         system.out.println("hello sonu");
     }
