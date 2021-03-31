@@ -19,16 +19,17 @@ public class AddressBookResource {
 	{
 		return contacts.get(id);
 	}
-	public void gh()
-	{
-	}
-	public void abc()
-	{
-		System.out.println("sambhav");
-	}
+	
 	@GetMapping("/")
 	public List<Contact> getAllContact(){
 		return new ArrayList<>(contacts.values());
+	}
+	public void ghe()
+	{
+	}
+	public void abcd()
+	{
+		System.out.println("sambhav");
 	}
 	@PostMapping("/")
 	public Contact addContact(@RequestBody Contact contact)
