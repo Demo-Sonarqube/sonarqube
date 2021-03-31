@@ -11,13 +11,6 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 public class DemoSwaggerApplication {
 
-	public void fun()
-{
-}
-public void sk()
-{
-	System.out.println("FUN");
-}
 	
 	public static void main(String[] args) {
 		SpringApplication.run(DemoSwaggerApplication.class, args);
