@@ -24,13 +24,7 @@ public class AddressBookResource {
 	public List<Contact> getAllContact(){
 		return new ArrayList<>(contacts.values());
 	}
-	public void ghe()
-	{
-	}
-	public void abcd()
-	{
-		System.out.println("sambhav");
-	}
+	
 	@PostMapping("/")
 	public Contact addContact(@RequestBody Contact contact)
 	{
