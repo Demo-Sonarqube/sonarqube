@@ -5,7 +5,8 @@ class HelloWorld {
     }
     public void abc()
     {
-        
+     
+        System.out.print("Hello");
     }
     public void cd()
     {
