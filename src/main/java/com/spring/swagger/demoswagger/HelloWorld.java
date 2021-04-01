@@ -21,5 +21,7 @@ class HelloWorld {
         System.out.print("abc");
     }
     public void test()
-    {}
+    {
+        System.out.println("Test");
+    }
 }
