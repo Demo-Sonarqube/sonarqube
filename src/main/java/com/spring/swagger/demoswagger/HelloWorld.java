@@ -3,7 +3,6 @@ class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World!"); 
     }
-    
     public void abc()
     {
         
@@ -24,4 +23,6 @@ class HelloWorld {
     {
         System.out.println("Test");
     }
+    public void cb()
+    {}
 }
