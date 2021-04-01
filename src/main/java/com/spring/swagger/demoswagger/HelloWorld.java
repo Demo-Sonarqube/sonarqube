@@ -20,4 +20,6 @@ class HelloWorld {
     {
         System.out.print("abc");
     }
+    public void test()
+    {}
 }
