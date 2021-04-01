@@ -18,6 +18,11 @@ public class DemoSwaggerApplication {
 	
 
 	}
+	
+	
+	
+public void g()
+{}
 
 	
 
