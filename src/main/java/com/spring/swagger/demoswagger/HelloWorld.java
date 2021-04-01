@@ -23,8 +23,5 @@ class HelloWorld {
     {
         System.out.println("Test");
     }
-    public void cb()
-    {}
-    public void bd()
-    {}
+   
 }
