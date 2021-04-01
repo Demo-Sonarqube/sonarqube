@@ -12,4 +12,8 @@ class HelloWorld {
     {
         System.out.println("Sambhav");
     }
+    public void fg()
+    {
+    System.out.print("khandelwal");
+    }
 }
