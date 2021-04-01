@@ -13,6 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class AddressBookResource {
 	//vishal patidar
 	HashMap<String,Contact> contacts=new HashMap<>();
+	int b;
 	
 	@GetMapping("/{id}")
 	public Contact getContact(@PathVariable String id)
