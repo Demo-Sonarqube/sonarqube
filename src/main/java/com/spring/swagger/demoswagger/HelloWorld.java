@@ -6,5 +6,10 @@ class HelloWorld {
     
     public void abc()
     {
+        
+    }
+    public void cd()
+    {
+        System.out.println("Sambhav");
     }
 }
