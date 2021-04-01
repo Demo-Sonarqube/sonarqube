@@ -33,4 +33,8 @@ public class AddressBookResource {
 		return contact;
 	}
 	
+	
+	public void t()
+	{}
+	
 }
