@@ -40,4 +40,8 @@ public class Contact {
 		this.phone = phone;
 	}
 	
+	
+	public void temp()
+	{}
+	
 }
