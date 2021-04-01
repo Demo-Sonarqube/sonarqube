@@ -41,7 +41,5 @@ public class Contact {
 	}
 	
 	
-	public void temp()
-	{}
 	
 }
