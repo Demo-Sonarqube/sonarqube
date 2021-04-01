@@ -18,5 +18,6 @@ class HelloWorld {
     }
     public void th()
     {
+        System.out.print("abc");
     }
 }
