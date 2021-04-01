@@ -1,7 +1,0 @@
-class Jenkins{
- void abc()
- {
- 
- }
-  
-}
