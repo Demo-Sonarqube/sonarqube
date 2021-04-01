@@ -22,22 +22,5 @@ class HelloWorld {
         System.out.println("Test");
     }
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    public void j()
-    {
-    System.out.print("t");
-    }
-   
+  
 }
