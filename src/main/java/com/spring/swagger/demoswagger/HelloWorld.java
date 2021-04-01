@@ -25,4 +25,6 @@ class HelloWorld {
     }
     public void cb()
     {}
+    public void bd()
+    {}
 }
