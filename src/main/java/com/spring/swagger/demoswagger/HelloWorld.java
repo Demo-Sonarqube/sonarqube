@@ -16,4 +16,7 @@ class HelloWorld {
     {
     System.out.print("khandelwal");
     }
+    public void th()
+    {
+    }
 }
