@@ -1,4 +1,5 @@
 import java.util.Map;
+import java.util.Vector;
 class Ghi{
   
   public void sambhav()
@@ -8,6 +9,7 @@ class Ghi{
   }
   public void de()
   {
+    int c;
     System.out.println("Test");
   }
 
