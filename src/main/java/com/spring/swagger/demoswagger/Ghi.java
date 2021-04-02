@@ -6,5 +6,9 @@ class Ghi{
     int a;
   System.out.println("Sambhav");
   }
+  public void de()
+  {
+    System.out.println("Test");
+  }
 
 }
