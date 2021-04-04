@@ -1,4 +1,5 @@
 import java.util.Date;
+import java.util.HashMap;
 class Lm{
  public void abc()
  {
@@ -9,7 +10,7 @@ class Lm{
  }
  public void t()
  {
- 
+ System.out.println("abcd");
  }
  public void a()
  {
