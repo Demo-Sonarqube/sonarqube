@@ -16,5 +16,7 @@ class Ghi{
     System.out.println("sambhav");
   }
   public void f()
-  {}
+  {
+    System.out.println("gh");
+  }
 }
