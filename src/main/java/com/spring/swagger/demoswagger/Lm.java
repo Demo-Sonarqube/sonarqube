@@ -7,5 +7,13 @@ class Lm{
  {
  System.out.println("sambhav");
  }
+ public void t()
+ {
+ 
+ }
+ public void a()
+ {
+ System.out.println("sambhav");
+ }
 
 }
