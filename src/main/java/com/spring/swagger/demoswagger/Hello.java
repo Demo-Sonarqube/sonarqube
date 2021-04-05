@@ -13,5 +13,7 @@ class Hello {
    System.out.println("a"); 
     }
     public void yh()
-    {}
+    {
+        System.out.println("");
+    }
 }
