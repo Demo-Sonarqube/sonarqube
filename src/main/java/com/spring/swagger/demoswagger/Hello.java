@@ -23,4 +23,6 @@ class Hello {
         System.out.println("");
         System.out.print("abc");
     }
+    public void gh()
+    {}
 }
