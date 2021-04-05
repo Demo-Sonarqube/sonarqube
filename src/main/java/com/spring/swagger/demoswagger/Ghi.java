@@ -15,6 +15,7 @@ class Ghi{
   public void gh()
   {
     System.out.println("abcd");
+     System.out.println("abcd");
   }
   public void cd()
   {
