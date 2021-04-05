@@ -1,6 +1,7 @@
 import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Vector;
 class Hello {
     public  void main1() {
        System.out.println("Hello vishal");
@@ -11,4 +12,6 @@ class Hello {
     {
    System.out.println("a"); 
     }
+    public void yh()
+    {}
 }
