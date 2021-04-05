@@ -19,5 +19,6 @@ class Hello {
     public void yh()
     {
         System.out.println("");
+        System.out.print("abc");
     }
 }
