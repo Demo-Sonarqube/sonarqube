@@ -5,6 +5,7 @@ import java.util.Vector;
 import java.util.List;
 import java.util.ArrayList;
 import java.util.Collection;
+import java.util.Deque;
 class Ghi{
   public void abc()
   {
