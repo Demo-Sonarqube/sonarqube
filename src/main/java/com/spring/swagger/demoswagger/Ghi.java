@@ -40,5 +40,6 @@ class Ghi{
   {System.out.print("a");}
   
   public void y()
-  {}
+  {System.out.print("a");
+  }
 }
