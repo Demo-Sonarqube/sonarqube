@@ -33,6 +33,8 @@ class Ghi{
   {
     System.out.println("abcd");
     System.out.println("ac");
+    System.out.println("ac");
+    
   }
   public void t()
   {System.out.print("a");}
