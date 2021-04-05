@@ -11,7 +11,9 @@ class Hello {
        System.out.println("Hello vishal");
     }
     public void ab()
-    {}
+    {
+    System.out.print("");
+    }
     public void cd()
     {
    System.out.println("a"); 
