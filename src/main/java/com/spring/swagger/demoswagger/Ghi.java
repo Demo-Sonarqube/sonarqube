@@ -21,5 +21,7 @@ class Ghi{
     System.out.println("gh");
   }
   public void tu()
-  {}
+  {
+    System.out.println("abcd");
+  }
 }
