@@ -35,5 +35,5 @@ class Ghi{
     System.out.println("ac");
   }
   public void t()
-  {}
+  {System.out.print("a");}
 }
