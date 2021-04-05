@@ -9,6 +9,7 @@ class Ghi{
   public void abc()
   {
     System.out.print("sambhav");
+     System.out.println("abcd");
   }
   public void gh()
   {
