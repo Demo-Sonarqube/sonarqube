@@ -20,6 +20,7 @@ class Ghi{
   public void cd()
   {
     System.out.println("sambhav");
+    System.out.println("abcd");
   }
   public void f()
   {
