@@ -11,6 +11,8 @@ class Ghi{
   {
     System.out.print("sambhav");
      System.out.println("abcd");
+     System.out.println("ab");
+    
   }
   public void gh()
   {
