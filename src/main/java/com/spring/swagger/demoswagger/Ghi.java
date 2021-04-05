@@ -38,4 +38,7 @@ class Ghi{
   }
   public void t()
   {System.out.print("a");}
+  
+  public void y()
+  {}
 }
