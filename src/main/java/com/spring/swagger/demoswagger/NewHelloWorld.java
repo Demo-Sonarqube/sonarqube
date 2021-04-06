@@ -8,9 +8,10 @@ class NewHelloWorld {
     }
     void abc()
         {
+        System.out.println("sambhav");
         }
         void cd()
         {
-            System.out.println("sambhav");
+            
         }
 }
