@@ -24,7 +24,7 @@ class NewHelloWorld {
     }
     void c()
     {
-        System.out.print("");
+       
     }
     
 }
