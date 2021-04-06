@@ -18,6 +18,9 @@ class Lm{
  {
  System.out.println("sambhav");
  }
+ public void cd()
+ {
+ }
 
 
 }
