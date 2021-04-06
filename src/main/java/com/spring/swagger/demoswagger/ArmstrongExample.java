@@ -1,5 +1,5 @@
 class ArmstrongExample{  
-  public static void main(String[] args)  {  
+  public static void main2()  {  
     int c=0,a,temp;  
     int n=153;//It is the number to check armstrong  
     temp=n;  
