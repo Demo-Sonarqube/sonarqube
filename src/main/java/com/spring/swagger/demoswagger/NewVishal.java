@@ -6,4 +6,8 @@ class NewVishal {
     {
         System.out.println("Hello, World! Vishal Patidar............................"); 
     }
+    public void newMethod()
+    {
+        System.out.println("Hello, World! Vishal Patidar project review"); 
+    }
 }
