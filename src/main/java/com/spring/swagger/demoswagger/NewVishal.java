@@ -10,5 +10,6 @@ class NewVishal {
     {
         System.out.println("Hello, World! Vishal Patidar project review");
          System.out.println("Hello this is for demo"); 
+        System.out.println("Hello this is for demo for sonarqube"); 
     }
 }
