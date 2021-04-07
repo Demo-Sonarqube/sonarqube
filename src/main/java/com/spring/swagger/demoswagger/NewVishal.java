@@ -8,6 +8,7 @@ class NewVishal {
     }
     public void newMethod()
     {
-        System.out.println("Hello, World! Vishal Patidar project review"); 
+        System.out.println("Hello, World! Vishal Patidar project review");
+         System.out.println("Hello this is for demo"); 
     }
 }
