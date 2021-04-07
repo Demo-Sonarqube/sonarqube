@@ -6,6 +6,8 @@ class Test
   void abc()
   {
     int a;
+    Map<String,String> mp=new HashMap<>();
+    mp.put("email","sambhav");
     
   }
 }
