@@ -9,6 +9,7 @@ class NewVishal {
     public void newMethod()
     {
         System.out.println("Hello, World! Vishal Patidar project review");
+         System.out.println("vishal patidar");
          System.out.println("Hello this is for demo"); 
         System.out.println("Hello this is for demo for sonarqube"); 
     }
