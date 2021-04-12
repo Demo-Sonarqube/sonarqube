@@ -1,5 +1,5 @@
 class Simple{  
-    public void ss2(){  
+    public void ss(){  
      System.out.println("Hello SS");  
     }  
 }  
